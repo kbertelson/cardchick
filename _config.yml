@@ -1,0 +1,4 @@
+name: CardChick
+markdown: redcarpet
+pygments: true
+timezone: America/Denver
